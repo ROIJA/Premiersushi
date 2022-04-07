@@ -1,2 +1,0 @@
-# Premiersushi
-Landing Page
